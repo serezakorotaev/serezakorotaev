@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/sergey-korotaev-3975711b1/" target="_blank">Sergey</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Middle Java Developer in MTS Digital</h3>
 
 <!--
 **serezakorotaev/serezakorotaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
