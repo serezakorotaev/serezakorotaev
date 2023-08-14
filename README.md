@@ -2,6 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Middle Java Developer in MTS Digital</h3>
 
+
+<h4>2+ years ago I started my way of developing and now I'm creating, designing and scaling projects from my work and also own projects</h4>
+<h4>I’m currently working on <a href="https://search.maven.org/artifact/ru.sergkorot.dynamic/spring-boot-operation-starter" target="_blank">Dynamic Search Library</a></h4>
 <!--
 **serezakorotaev/serezakorotaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
