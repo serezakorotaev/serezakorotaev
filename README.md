@@ -7,6 +7,13 @@
 <h4>2+ years ago I started my way of developing and now I'm creating, designing and scaling projects from my work and also own projects</h4>
 <h4>I’m currently working on <a href="https://search.maven.org/artifact/ru.sergkorot.dynamic/spring-boot-operation-starter" target="_blank">Dynamic Search Library</a></h4>
 
+<h4>All dynamic search projects: <br>
+  - <a href="https://github.com/serezakorotaev/spring-boot-operation-starter" target="_blank">Dynamic search library for relation database</a> <br>
+  - <a href="https://github.com/serezakorotaev/operation-core" target="_blank">Core lib with interfaces for realization dynamic search</a> <br>
+  - <a href="https://github.com/serezakorotaev/operation-bom" target="_blank">Bom for storing versions of libs for dynamic search</a> <br>
+  - <a href="https://github.com/serezakorotaev/operation-test" target="_blank">Test project for demonstration how it works</a>
+</h4>
+
 [![Sergey Korotaev's GitHub stats](https://github-readme-stats.vercel.app/api?username=serezakorotaev)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=serezakorotaev)](https://github.com/ryo-ma/github-profile-trophy)
