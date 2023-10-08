@@ -9,6 +9,7 @@
 
 <h4>All dynamic search projects: <br>
   - <a href="https://github.com/serezakorotaev/spring-boot-operation-starter" target="_blank">Dynamic search library for relation database</a> <br>
+  - <a href="https://github.com/serezakorotaev/spring-boot-operation-mongodb-starter" target="_blank">Dynamic search library for MongoDb</a> <br>
   - <a href="https://github.com/serezakorotaev/operation-core" target="_blank">Core lib with interfaces for realization dynamic search</a> <br>
   - <a href="https://github.com/serezakorotaev/operation-bom" target="_blank">Bom for storing versions of libs for dynamic search</a> <br>
   - <a href="https://github.com/serezakorotaev/operation-test" target="_blank">Test project for demonstration how it works</a>
