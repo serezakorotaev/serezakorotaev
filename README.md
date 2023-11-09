@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=serezakorotaev)
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/sergey-korotaev-3975711b1/" target="_blank">Sergey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Middle Java Developer in MTS Digital</h3>
+<h3 align="center">Software Java Developer in Innotech</h3>
 
 
 <h4>2+ years ago I started my way of developing and now I'm creating, designing and scaling projects from my work and also own projects</h4>
