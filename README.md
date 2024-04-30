@@ -6,6 +6,7 @@
 
 <h4>3 years ago I started my way of developing and now I'm creating, designing and scaling projects from my work and also own projects</h4>
 <h4>I’m currently working on <a href="https://search.maven.org/artifact/ru.sergkorot.dynamic/spring-boot-operation-starter" target="_blank">Dynamic Search Library</a></h4>
+<h4>And community project with friends <a href="https://github.com/Amaralus/no-code-qa-platform" target="_blank">No code QA Platform</a></h4>
 
 <h4>All dynamic search projects: <br>
   - <a href="https://github.com/serezakorotaev/spring-boot-operation-starter" target="_blank">Dynamic search library for relation database</a> <br>
